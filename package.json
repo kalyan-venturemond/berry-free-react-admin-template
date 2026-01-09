@@ -1,0 +1,8 @@
+{
+    "name": "root-wrapper",
+    "private": true,
+    "scripts": {
+        "build": "cd vite && yarn install && yarn build"
+    },
+    "packageManager": "yarn@4.10.3"
+}
